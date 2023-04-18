@@ -1,0 +1,14 @@
+{
+    "name": "hangman",
+    "version": "1.0.0",
+    "engine": {
+      "node": "^18.14"
+    },
+    "type": "module",
+    "main": "index.js",
+    "author": "Jarae Moultrie",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DTI22/hangman.git"
+    }
+  }

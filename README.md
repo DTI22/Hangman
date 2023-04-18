@@ -1,2 +1,2 @@
-# hangman
-hangman game 
+# Hangman-Project
+Hangman Game For Javascript Fundamentals
